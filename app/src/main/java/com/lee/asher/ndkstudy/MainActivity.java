@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tv = (TextView) findViewById(R.id.tv_app_package_name);
         tv.setText("packageName: " + JniTest.getPackname(MainActivity.this));
-        //test git merge 2 test
+        //test git merge 2 test 1
     }
 }
